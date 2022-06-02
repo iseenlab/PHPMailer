@@ -53,5 +53,5 @@ function smtpmailer($to, $from, $from_name, $subject, $body)
     <body style="background: black;">
         <center><h2 style="padding-top:70px;color: white;"><?php echo $error; ?></h2></center>
     </body>
-    
+ 
 </html>
